@@ -1,4 +1,4 @@
-### Hello there 👋👋
+![](giphy.gif)
 
 - 🔭 I’m currently working on MERN Stack development.
 - 🌱 Actively looking for internship opportunities in field of Software Development
