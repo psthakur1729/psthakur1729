@@ -5,8 +5,24 @@ I'm Prashant
 - 🌱 Actively looking for internship opportunities in field of Software Development
 - 💬 Good at problem solving.
 - 📫 How to reach me: www.linkedin.com/in/prashant-singh-thakur-iiitr
-- ⚡ Fun fact: I have completed my Knight training under master Obi-Wan.
 
+<ul>
+        <br/>
+        <!--<span style="position:absolute;left:75px;margin-top:3px;">
+               ▖
+        </span> -->
+        <a href="mailto:psthakur.btech.cs18@iiitranchi.ac.in" target="_blank"> <img title="email: psthakur.btech.cs18@iiitranchi.ac.in"
+                src="https://img.icons8.com/dusk/64/000000/gmail.png" alt="email"
+                width="50" height="50"/> 
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://www.linkedin.com/in/prashant-singh-thakur-iiitr/" target="_blank"> <img title="linkedin: prashant-thakur"
+                src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"
+                width="50" height="50"/> 
+        </a>
+        &nbsp;&nbsp;
+       
+</ul>
 
 <!--
 
