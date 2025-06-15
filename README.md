@@ -14,7 +14,7 @@ I'm Prashant
                 width="50" height="50"/> 
         </a>
         &nbsp;&nbsp;
-        <a href="[https://www.linkedin.com/in/thakur-prashant-singh](https://www.linkedin.com/in/thakur-prashant-singh/)" target="_blank"> <img title="linkedin: prashant-thakur"
+        <a href="[LinkedIN](www.linkedin.com/in/thakur-prashant-singh/)" target="_blank"> <img title="linkedin: prashant-thakur"
                 src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"
                 width="50" height="50"/> 
         </a>
